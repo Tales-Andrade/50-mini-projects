@@ -1,3 +1,18 @@
-This repository holds all the 50 projects that I followed from the 50 Projects in 50 Days udemy course. It does not represent my own code, just the skills I have learning during the course.
+# 50 Projects in 50 days
 
-The function of this repository is merely educacional. I am practicing on doing html, css, and vanilla javascript projects and using git/github.
+This repository holds 50 mini projects in 50 days. Those mini projects were done while following the udemy course "50 Projects in 50 Days". It is merely an educational repository with
+the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
+
+# Projects
+
+## Expanding Cards
+
+## Progress Steps
+
+## Rotating Navigation
+
+## Hidden Search
+
+## Blurry Loading
+
+## Scroll Animation
