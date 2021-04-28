@@ -2,6 +2,7 @@ const progress = document.getElementById('progress');
 const prev = document.getElementById('prev');
 const next = document.getElementById('next');
 const circles = document.querySelectorAll('.circle');
+const imgs = document.querySelectorAll('img');
 
 let currentActive = 1;
 
@@ -32,6 +33,15 @@ function update() {
         }
         else {
             circle.classList.remove('active');
+        }
+    });
+
+    imgs.forEach((img, index) => {
+        if ((index + 1) === currentActive) {
+            img.classList.add('show');
+        }
+        else {
+            img.classList.remove('show');
         }
     });
 
