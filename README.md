@@ -16,3 +16,7 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## Blurry Loading
 
 ## Scroll Animation
+
+## Sound Board
+
+## Dad Jokes
