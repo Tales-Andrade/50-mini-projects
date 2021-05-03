@@ -20,3 +20,15 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## Sound Board
 
 ## Dad Jokes
+
+## Event KeyCodes
+
+## FAQ Collapse
+
+## Random Choice Picker
+
+## Animated Navigation
+
+## Incrementing Counter
+
+## Drink Water
