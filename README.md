@@ -32,3 +32,7 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## Incrementing Counter
 
 ## Drink Water
+
+## Movie App
+
+## Background Slider
