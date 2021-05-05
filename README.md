@@ -36,3 +36,7 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## Movie App
 
 ## Background Slider
+
+## Theme Clock
+
+## Button Ripple Effect
