@@ -5,38 +5,42 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 
 # Projects
 
-## Expanding Cards
+## [Expanding Cards](https://github.com/Tales-Andrade/50projects-50days/tree/main/ExpandingCards)
 
-## Progress Steps
+## [Progress Steps](https://github.com/Tales-Andrade/50projects-50days/tree/main/ProgressSteps)
 
-## Rotating Navigation
+## [Rotating Navigation](https://github.com/Tales-Andrade/50projects-50days/tree/main/RotatingNavigation)
 
-## Hidden Search
+## [Hidden Search](https://github.com/Tales-Andrade/50projects-50days/tree/main/HiddenSearch)
 
-## Blurry Loading
+## [Blurry Loading](https://github.com/Tales-Andrade/50projects-50days/tree/main/BlurryLoading)
 
-## Scroll Animation
+## [Scroll Animation](https://github.com/Tales-Andrade/50projects-50days/tree/main/ScrollAnimation)
 
-## Sound Board
+## [Sound Board](https://github.com/Tales-Andrade/50projects-50days/tree/main/SoundBoard)
 
-## Dad Jokes
+## [Dad Jokes](https://github.com/Tales-Andrade/50projects-50days/tree/main/DadJokes)
 
-## Event KeyCodes
+## [Event KeyCodes](https://github.com/Tales-Andrade/50projects-50days/tree/main/EventKeyCodes)
 
-## FAQ Collapse
+## [FAQ Collapse](https://github.com/Tales-Andrade/50projects-50days/tree/main/FAQCollapse)
 
-## Random Choice Picker
+## [Random Choice Picker](https://github.com/Tales-Andrade/50projects-50days/tree/main/RandomChoicePicker)
 
-## Animated Navigation
+## [Animated Navigation](https://github.com/Tales-Andrade/50projects-50days/tree/main/AnimatedNavigation)
 
-## Incrementing Counter
+## [Incrementing Counter](https://github.com/Tales-Andrade/50projects-50days/tree/main/IncrementingCounter)
 
-## Drink Water
+## [Drink Water](https://github.com/Tales-Andrade/50projects-50days/tree/main/DrinkWater)
 
-## Movie App
+## [Movie App](https://github.com/Tales-Andrade/50projects-50days/tree/main/MovieApp)
 
-## Background Slider
+## [Background Slider](https://github.com/Tales-Andrade/50projects-50days/tree/main/BackgroundSlider)
 
-## Theme Clock
+## [Theme Clock](https://github.com/Tales-Andrade/50projects-50days/tree/main/ThemeClock)
 
-## Button Ripple Effect
+## [Button Ripple Effect](https://github.com/Tales-Andrade/50projects-50days/tree/main/ButtonRippleEffect)
+
+## [Drag N Drop](https://github.com/Tales-Andrade/50projects-50days/tree/main/DragNDrop)
+
+## [Drawing App](https://github.com/Tales-Andrade/50projects-50days/tree/main/DrawingApp)
