@@ -44,3 +44,7 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## [Drag N Drop](https://github.com/Tales-Andrade/50projects-50days/tree/main/DragNDrop)
 
 ## [Drawing App](https://github.com/Tales-Andrade/50projects-50days/tree/main/DrawingApp)
+
+## [Kinetic Loader](https://github.com/Tales-Andrade/50projects-50days/tree/main/KineticLoader)
+
+## [Content Placeholder](https://github.com/Tales-Andrade/50projects-50days/tree/main/ContentPlaceholder)
