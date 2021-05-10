@@ -48,3 +48,7 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## [Kinetic Loader](https://github.com/Tales-Andrade/50projects-50days/tree/main/KineticLoader)
 
 ## [Content Placeholder](https://github.com/Tales-Andrade/50projects-50days/tree/main/ContentPlaceholder)
+
+## [Sticky Navbar](https://github.com/Tales-Andrade/50projects-50days/tree/main/StickyNavbar)
+
+## [Double Vertical Slider](https://github.com/Tales-Andrade/50projects-50days/tree/main/DoubleVerticalSlider)
