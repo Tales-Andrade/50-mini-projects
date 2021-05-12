@@ -52,3 +52,11 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## [Sticky Navbar](https://github.com/Tales-Andrade/50projects-50days/tree/main/StickyNavbar)
 
 ## [Double Vertical Slider](https://github.com/Tales-Andrade/50projects-50days/tree/main/DoubleVerticalSlider)
+
+## [Toast Notification](https://github.com/Tales-Andrade/50projects-50days/tree/main/ToastNotification)
+
+## [Github Profiles](https://github.com/Tales-Andrade/50projects-50days/tree/main/GithubProfiles)
+
+## [Double Heart Clicker](https://github.com/Tales-Andrade/50projects-50days/tree/main/DoubleHeartClicker)
+
+## [Auto Text Effect](https://github.com/Tales-Andrade/50projects-50days/tree/main/AutoTextEffect)
