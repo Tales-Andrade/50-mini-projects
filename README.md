@@ -60,3 +60,11 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## [Double Heart Clicker](https://github.com/Tales-Andrade/50projects-50days/tree/main/DoubleHeartClicker)
 
 ## [Auto Text Effect](https://github.com/Tales-Andrade/50projects-50days/tree/main/AutoTextEffect)
+
+## [Password Generator](https://github.com/Tales-Andrade/50projects-50days/tree/main/PasswordGenerator)
+
+## [Checkboxes](https://github.com/Tales-Andrade/50projects-50days/tree/main/Checkboxes)
+
+## [Notes App](https://github.com/Tales-Andrade/50projects-50days/tree/main/NotesApp)
+
+## [Animated Countdown](https://github.com/Tales-Andrade/50projects-50days/tree/main/AnimatedCountdown)
