@@ -68,3 +68,11 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## [Notes App](https://github.com/Tales-Andrade/50projects-50days/tree/main/NotesApp)
 
 ## [Animated Countdown](https://github.com/Tales-Andrade/50projects-50days/tree/main/AnimatedCountdown)
+
+## [ImageCarousel](https://github.com/Tales-Andrade/50projects-50days/tree/main/ImageCarousel)
+
+## [Hoverboard](https://github.com/Tales-Andrade/50projects-50days/tree/main/Hoverboard)
+
+## [Pokedex](https://github.com/Tales-Andrade/50projects-50days/tree/main/Pokedex)
+
+## [MobileTabNavigation](https://github.com/Tales-Andrade/50projects-50days/tree/main/MobileTabNavigation)
