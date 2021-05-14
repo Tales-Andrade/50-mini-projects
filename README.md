@@ -75,4 +75,12 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 
 ## [Pokedex](https://github.com/Tales-Andrade/50projects-50days/tree/main/Pokedex)
 
-## [MobileTabNavigation](https://github.com/Tales-Andrade/50projects-50days/tree/main/MobileTabNavigation)
+## [Mobile Tab Navigation](https://github.com/Tales-Andrade/50projects-50days/tree/main/MobileTabNavigation)
+
+## [Password Strength Background](https://github.com/Tales-Andrade/50projects-50days/tree/main/PasswordStrengthBackground)
+
+## [Background Boxes](https://github.com/Tales-Andrade/50projects-50days/tree/main/BackgroundBoxes)
+
+## [Verify Account](https://github.com/Tales-Andrade/50projects-50days/tree/main/VerifyAccount)
+
+## [Live User Filter](https://github.com/Tales-Andrade/50projects-50days/tree/main/LiveUserFilter)
