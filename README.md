@@ -84,3 +84,11 @@ the intent of practicing HTML, CSS, JavaScript (DOM) and using git.
 ## [Verify Account](https://github.com/Tales-Andrade/50projects-50days/tree/main/VerifyAccount)
 
 ## [Live User Filter](https://github.com/Tales-Andrade/50projects-50days/tree/main/LiveUserFilter)
+
+## [Feedback UI Design](https://github.com/Tales-Andrade/50projects-50days/tree/main/FeedbackDesign)
+
+## [Custom Range Slider](https://github.com/Tales-Andrade/50projects-50days/tree/main/CustomRangeSlider)
+
+## [Netflix Navigation](https://github.com/Tales-Andrade/50projects-50days/tree/main/NetflixNavigation)
+
+## [Quiz App](https://github.com/Tales-Andrade/50projects-50days/tree/main/QuizApp)
