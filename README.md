@@ -1,6 +1,6 @@
-# 50 Projects in 50 days
+# 50 Mini Projects
 
-This repository holds 50 mini projects. These mini projects were implemented while following the course "50 Projects in 50 Days". 
+This repository holds 50 mini projects. These mini projects were implemented while following the course "50 Projects in 50 Days".
 
 It is merely an educational repository with the intent of practicing HTML, CSS, JavaScript (DOM) and git.
 
@@ -93,3 +93,11 @@ It is merely an educational repository with the intent of practicing HTML, CSS, 
 ### [Netflix Navigation](https://github.com/Tales-Andrade/50projects-50days/tree/main/NetflixNavigation)
 
 ### [Quiz App](https://github.com/Tales-Andrade/50projects-50days/tree/main/QuizApp)
+
+### [Testimonial Box Switcher](https://github.com/Tales-Andrade/50projects-50days/tree/main/TestimonialBoxSwitcher)
+
+### [Random Image Feed](https://github.com/Tales-Andrade/50projects-50days/tree/main/RandomImageFeed)
+
+### [Todo List](https://github.com/Tales-Andrade/50projects-50days/tree/main/TodoList)
+
+### [Insect Catch Game](https://github.com/Tales-Andrade/50projects-50days/tree/main/InsectCatchGame)
